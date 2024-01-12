@@ -14,15 +14,15 @@ Are you ready for an adventure into the future of app development with LangChain
 
 To guide our expedition, we'll rely on two exceptional learning materials:
 
-1. **Generative AI with LangChain, First Edition**: Dive deep into LangChain and the art of generative AI. We'll explore code, concepts, and practical applications. The author is actively engaged in the Discord group and maintains a responsive [GitHub repo](https://github.com/benman1/generative_ai_with_langchain). Let's learn together!
+1. **Generative AI with LangChain, First Edition**: Dive deep into LangChain and the art of generative AI. We'll explore code, concepts, and practical applications. The author is actively engaged in the Discord group and maintains a responsive <a href="https://github.com/benman1/generative_ai_with_langchain" target="_blank">GitHub repo</a>. Let's learn together!
 
-2. **LangChain Masterclass - Build 15 OpenAI and LLAMA 2 LLM Apps Using Python**: Get ready to build 15 captivating apps using Python, powered by OpenAI and LLAMA 2 LLM. We'll unravel the possibilities and turn ideas into reality. The associated [GitHub repo](https://github.com/PacktPublishing/LangChain-MasterClass---Build-15-OpenAI-and-LLAMA-2-LLM-Apps-using-Python) is our guide to success.
+2. **LangChain Masterclass - Build 15 OpenAI and LLAMA 2 LLM Apps Using Python**: Get ready to build 15 captivating apps using Python, powered by OpenAI and LLAMA 2 LLM. We'll unravel the possibilities and turn ideas into reality. The associated <a href="https://github.com/PacktPublishing/LangChain-MasterClass---Build-15-OpenAI-and-LLAMA-2-LLM-Apps-using-Python" target="_blank">GitHub repo</a> is our guide to success.
 
 ## Join the Conversation
 
 I'm not embarking on this journey alone, and neither should you! Join me and fellow enthusiasts in our Discord community. Let's share insights, ask questions, and collaborate to make 2024 a year of breakthroughs.
 
-👉 [Join the Discord Community](https://discord.gg/3SkasWpryg)
+👉 <a href="https://discord.gg/3SkasWpryg" target="_blank">Join the Discord Community</a>
 
 Together, we'll uncover the limitless possibilities of LangChain and large language models. Let's code, create, and innovate our way into the future!
 
