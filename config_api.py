@@ -6,7 +6,7 @@
 #
 
 import os
-OPENAI_API_KEY='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'
+OPENAI_API_KEY='sk-IwillNeverUseThisKeyInARealApplication'
 # I'm omitting all other keys
 def set_environment():
     variable_dict = globals().items()
